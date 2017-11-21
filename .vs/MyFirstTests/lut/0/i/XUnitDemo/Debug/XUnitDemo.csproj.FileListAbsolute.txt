@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\b\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\b\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\b\xunit.runner.utility.net452.dll
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\b\xunit.abstractions.dll
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\b\XUnitDemo.dll
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\b\XUnitDemo.pdb
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\i\XUnitDemo\Debug\XUnitDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\i\XUnitDemo\Debug\XUnitDemo.dll
+C:\Users\Administrator\source\repos\MyFirstTests\.vs\MyFirstTests\lut\0\i\XUnitDemo\Debug\XUnitDemo.pdb

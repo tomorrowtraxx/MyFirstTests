@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.abstractions.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\XUnitDemo.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\XUnitDemo.pdb
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.assert.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.core.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.assert.xml
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.core.xml
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\obj\Debug\XUnitDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\obj\Debug\XUnitDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\obj\Debug\XUnitDemo.dll
+C:\Users\Administrator\source\repos\MyFirstTests\XUnitDemo\obj\Debug\XUnitDemo.pdb
